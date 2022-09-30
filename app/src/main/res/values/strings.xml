@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ITech</string>
+    <string name="msg_select_worker">Seleccione el tipo trabajador</string>
+    <string name="name_activity_select">Seleccionar</string>
+    <string name="id">ID</string>
+    <string name="nombre_Activity">Nombre</string>
+    <string name="apellido_Activity">Apellido</string>
+    <string name="edad_Activity">Edad</string>
+    <string name="valor_Activity">Valor</string>
+    <string name="horas_Activity">Horas</string>
+    <string name="btn_principal1">Agregar Trabajador</string>
+    <string name="btn_principal2">Mostrar Lista</string>
+    <string name="btn_principal3">Acerca de</string>
+    <string name="name_acerca">Acerca de</string>
+    <string name="nombre">Franklin Abelino Espinoza Otero</string>
+    <string name="email">eo17i04001@usonsonate.edu.sv</string>
+    <string name="version">V 1.0</string>
+    <string name="seleccionar_th">Trabajador por hora</string>
+    <string name="seleccionar_ttc">Trabajador tiempo completo</string>
+    <string name="name_trabajadorHoraActivity">Trabajador Hora</string>
+    <string name="name_trabajadorTTCActivity">Trabajador Tiempo Completo</string>
+    <string name="name_ListarActivity">Trabajadores</string>
+    <string name="salario">Salario</string>
+</resources>
